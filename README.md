@@ -1,5 +1,5 @@
 # Data Science Pipeline. Inspired by Nate from StrataScratch (nate@stratascratch.com)
-Step 1: Make API calls to grab new data
+Step 1: Make API calls to grab new data.
 
     Making Youtube API calls by to get data (video statistics) of the channel 'Good Mythical Morning'. 
     
@@ -7,7 +7,7 @@ Step 1: Make API calls to grab new data
     
     Create a pandas DataFrame.
     
-Step 2: Store in cloud 
+Step 2: Import data to cloud database.
 
     Create new database in cloud (Amazon RDS DB instance - PostgreSQL database).
     
